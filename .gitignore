@@ -1,4 +1,8 @@
 # Dependency directories
 node_modules/ 
 
-# 
+# Vscode
+.vscode
+
+# Mac files
+.DS_Store
