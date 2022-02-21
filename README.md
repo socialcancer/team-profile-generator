@@ -6,7 +6,19 @@ The Team Profile Generator is a command-line-input application that is run in No
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+First, you will need Node.js on your computer. Run node --version to see if you have it installed.
+
+Secondly, install Inquirer:
+
+```
+npm i inquirer
+```
+
+Thirdly, install Jest:
+
+```
+npm i jest
+```
 
 ## Usage
 
