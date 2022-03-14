@@ -27,12 +27,12 @@ This app was created using OOP concepts. In this app you will find classes and c
 
 ### Please view the screen cast of the app working here
 
-Click here [https://drive.google.com/drive/folders/1sZgynJqjrEyDBP-L4Q3khqJwkf6Z9TdD?usp=sharing]
+Click here [https://drive.google.com/file/d/14ByNa-vEgXgTKZKGkmGwUxXQPShfzSX9/view?usp=sharing]
 
 ### Jest screenshot
 
-![jest screenshot](assets/images/jest-passing-test.jpg)
+![jest screenshot](assets/images/jest-passing-test-0314.gif)
 
 ### App screenshot
 
-![app screenshot](assets/images/app-screenshot.jpg)
+![app screenshot](assets/images/creating-intern.gif)
